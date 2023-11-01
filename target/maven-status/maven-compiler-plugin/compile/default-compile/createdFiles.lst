@@ -1,0 +1,5 @@
+com\emergentes\dao\libroDAOimpl.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\dao\libroDAO.class
+com\emergentes\modelo\libros.class
